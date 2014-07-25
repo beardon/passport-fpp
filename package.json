@@ -1,0 +1,31 @@
+{
+  "name": "passport-fpp",
+  "description": "FPP authentication strategy for Passport",
+  "version": "0.1.0",
+  "keywords": [
+    "passport",
+    "fpp",
+    "auth",
+    "authn",
+    "authentication",
+    "identity",
+    "ad",
+    "active directory"
+  ],
+  "homepage": "https://github.com/beardon/passport-fpp",
+  "bugs": {
+    "url": "https://github.com/beardon/passport-fpp/issues",
+    "email": "aaron.bean@beardon.com"
+  },
+  "author": {
+    "name": "Aaron Bean",
+    "email": "aaron.bean@beardon.com",
+    "url": "https://github.com/aaronbean"
+  },
+  "main": "./lib/passport-fpp",
+  "dependencies": {
+    "passport-oauth": "^1.0.0",
+    "passport-openid": "0.3.x",
+    "pkginfo": "~0.3.0"
+  }
+}
