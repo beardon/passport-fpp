@@ -1,7 +1,7 @@
 {
   "name": "passport-fpp",
   "description": "FPP authentication strategy for Passport",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords": [
     "passport",
     "fpp",
@@ -12,9 +12,9 @@
     "ad",
     "active directory"
   ],
-  "homepage": "https://github.com/beardon/passport-fpp",
+  "homepage": "https://github.com/osufpp/passport-fpp",
   "bugs": {
-    "url": "https://github.com/beardon/passport-fpp/issues",
+    "url": "https://github.com/osufpp/passport-fpp/issues",
     "email": "aaron.bean@beardon.com"
   },
   "author": {
